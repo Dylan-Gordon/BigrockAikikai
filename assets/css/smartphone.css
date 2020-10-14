@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+html {
+   background-size: 1900px 1200px;
+} /* correct background shrinkage on iPhone */
+
+ul.dropdown li a {
+   /* prevent nav from wrapping */
+   padding-right: 22px;
+}
