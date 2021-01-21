@@ -1,0 +1,12 @@
+table.separated {
+   border-collapse: separate;
+   border-spacing: 0 15px;
+}
+
+td.separated {
+   padding: 15px;
+}
+
+td.info {
+   padding-top: 20px;
+}
